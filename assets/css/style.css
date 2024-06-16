@@ -223,7 +223,22 @@ main {
 /* TODO: Add portfolio project images here*/
 
 /* media queries */
+@media screen and (max-width:768px) {
+  
+  main
+   { flex-direction: column;
 
+  }
+  
+}
+
+@media screen and (max-width:980px) {
+
+  main
+  { flex-direction: row;
+  
+  }
+}
 /* TODO: add media query for a max-width of 980px */
 
 /* TODO: add media query for a max-width of 768px */
