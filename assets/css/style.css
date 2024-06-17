@@ -191,7 +191,7 @@ main {
   font-size: 1.6rem;
 }
 
-.contact address {
+.contact-address {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
@@ -199,7 +199,7 @@ main {
   height: 100%;
 }
 
-.contact address a {
+.contact-address a {
   color: var(--tertiary);
   padding: 5px;
   text-decoration: none;
@@ -214,7 +214,7 @@ main {
   display: inline-block;
 }
 
-.contact address a:hover {
+.contact-address a:hover {
   background-size: 100% 88%;
   color: var(--secondary);
 }
@@ -235,7 +235,7 @@ main {
 @media screen and (max-width:980px) {
 
   main
-  { flex-direction: row;
+  { flex-direction:row;
   
   }
 }
