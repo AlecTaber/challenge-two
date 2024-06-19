@@ -131,6 +131,18 @@ This is CSS for the footer element.
 }
 ```
 ## Usage
+Each underlined section in the top right of this screen shot are links to sections of the page or a link to an outside source.
+
+![The navigation bar on the webpage with underlined text saying About Me, Work, Contact Me, and Linkedin.](images/header.png)
+
+Each of these boxes shown in this screenshot will change colors when hovering over them and clicking on the images within the boxes will take you to the uploaded webpage for the project.
+
+![Boxes with titles of projects with images underneath them.](images/work.png)
+
+The underlined words at the bottom of this screenshot are links to the related contact information.
+
+![Underlined words saying Email, and Github.](images/footer.png)
+
 
 ## Built With
 
@@ -139,14 +151,14 @@ This is CSS for the footer element.
 
 ## Deployed Link
 
-* [See Live Site](#)
+* [See Live Site](https://alectaber.github.io/challenge-two/)
 
 
 ## Authors
 
 * **Alec Taber** 
 
-- [Link to Portfolio Site](#)
+- [Link to Portfolio Site](https://alectaber.github.io/challenge-two/)
 - [Link to Github](https://github.com/AlecTaber)
 - [Link to LinkedIn](https://www.linkedin.com/in/alec-taber-11b963311/)
 
